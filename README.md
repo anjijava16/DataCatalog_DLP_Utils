@@ -20,3 +20,17 @@ https://medium.com/google-cloud/google-cloud-data-catalog-integrate-your-on-prem
 
 https://github.com/GoogleCloudPlatform/datacatalog-connectors
 https://github.com/GoogleCloudPlatform/datacatalog-connectors-rdbms
+
+
+# Data Loss Prevention(DLP)
+Fully managed service designed to help you discover, classify, and protect your most sensitive data.
+
+Cloud DLP includes:
+
+i. Over 120 built-in information type (or "infoType") detectors.
+ii. The ability to define custom infoType detectors using dictionaries, regular expressions, and contextual elements.
+De-identification techniques including redaction, masking, format-preserving encryption, date-shifting, and more.
+iii. The ability to detect sensitive data within streams of data, structured text, files in storage repositories such as Cloud Storage and BigQuery, and even within images.
+iv. Analysis of structured data to help understand its risk of being re-identified, including computation of metrics like k-anonymity, l-diversity, and more.
+Reference Link: https://cloud.google.com/dlp/docs
+
