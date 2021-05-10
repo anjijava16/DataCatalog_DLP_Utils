@@ -10,6 +10,11 @@ There are two main ways you interact with Data Catalog:
 - Searching for data assets that you have access to.
 - Tagging assets with metadata.
 
+GCP Having by default below service in the Datacatalog:
+  i.    BigQuery
+  ii.   GCS
+  iii.  Pub/Sub
+
 i.   A simple and easy to use search interface for data discovery, powered by the same Google search technology that supports Gmail and Drive.
 ii.  A flexible and powerful cataloging system for capturing technical and business metadata.
 iii. An auto-tagging mechanism for sensitive data with DLP API integration.
