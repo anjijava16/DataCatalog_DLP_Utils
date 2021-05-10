@@ -19,6 +19,7 @@ Flow: On-premise (SQLServer---> Scrape ---> Prepare ---> Ingest)
 https://medium.com/google-cloud/google-cloud-data-catalog-integrate-your-on-prem-rdbms-metadata-468e0d8220fb
 
 https://github.com/GoogleCloudPlatform/datacatalog-connectors
+
 https://github.com/GoogleCloudPlatform/datacatalog-connectors-rdbms
 
 
