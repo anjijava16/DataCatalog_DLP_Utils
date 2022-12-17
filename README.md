@@ -4,6 +4,8 @@
 Data Catalog is a fully managed and scalable metadata management service that empowers organizations to quickly discover, understand, and manage all their data.
 It offers a simple and easy-to-use search interface for data discovery, a flexible and powerful cataloging system for capturing both technical and business metadata, and a strong security and compliance foundation with Cloud Data Loss Prevention (DLP) and Cloud Identity and Access Management (IAM) integrations.
 
+# Open Source Data Catalog
+1. https://www.linkedin.com/pulse/data-catalogue-meta-management-isha-rani/
 
 Using Data Catalog
 There are two main ways you interact with Data Catalog:
